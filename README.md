@@ -1,5 +1,4 @@
 # Oasis
-Easy to use launcher for old versions of Rec Room
 
 Oasis allows you to launch old versions of Rec Room by bypassing the game's update check.
 
