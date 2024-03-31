@@ -7,3 +7,5 @@ The bypass works by renaming the Steam file to a different name, so it can't ope
 You will need to download the old versions of the game using the Steam console.
 
 ## [Download the latest release](https://github.com/HypeCrazed/Oasis/releases/download/v1.0/Oasis.v1.0.zip)
+
+## IMPORTANT: Make sure the game path you set in the launcher contains the Recroom_Release.exe file!
